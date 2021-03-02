@@ -8,7 +8,7 @@ L-DOS contains many features. A function shop (which is just enabling programs),
 L-DOS also has built-in "things". Some things it has is:
 
 **Music**
-L-DOS contains multiple tracks from the popular video game *Friday Night Funkin'* for use with the *wavread* app.
+L-DOS contains the song *Beboboo* from the popular video game *Friday Night Funkin'* for use with the *wavread* app.
 
 **File Editor**
 The file tool allows you to create, edit, and read files.
@@ -24,3 +24,8 @@ L-DOS contains actual DOS features, like the *dir* and *cd* commands while intro
 
 # Requirements
 L-DOS needs Windows and Python 3.6.2. Make sure that it's on your desktop. The home directory is set to C:/users/(username)/Desktop/L-DOS. You can easily modify this by going into the source code and modifiying the **home** and **path** variables.
+
+# How to Run
+Run L-DOS by going into Python 3.6.2+ and clicking "open". Then select ldos.py, and click "check module" or press F5. L-DOS doesn't need any installation!
+
+# **Have fun with L-DOS!**
