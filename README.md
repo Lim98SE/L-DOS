@@ -1,5 +1,5 @@
 # L-DOS
-L-DOS is a Python 3.6.2 DOS distro.
+L-DOS is an open-source Python 3.6.2 DOS distro.
 
 # Features
 L-DOS contains many features. A function shop (which is just enabling programs), a file editor, the music playing tool wavread, and even a graphic interface. Also for the *fshop* and the *graphic* programs have a tag: */nw*. Typing (file) /nw into the command prompt allows you to bypass any waiting. 
