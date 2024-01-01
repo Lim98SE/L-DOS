@@ -92,6 +92,8 @@ def load_configs():
 
         config = default_config
 
+        write_config()
+
     print("Loading theme...")
 
 
